@@ -37,7 +37,7 @@ Dieses Projekt wurde mit NodeJS, TypeScript sowie der Hilfe von NodeJS und NPM e
 
 - NodeJS installieren
 
-[Wählen Sie hier den "Windows Installer" aus](https://nodejs.org/de/download)
+[Wählen Sie hier den "Windows Installer" aus](https://nodejs.org/de/download) + "Add to PATH" unbedingt anklicken!!!
 
 - Verifizieren, ob NodeJS korrekt installiert wurde
 
